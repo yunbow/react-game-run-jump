@@ -1,0 +1,10 @@
+.gameContainer {
+  width: 800px;
+  height: 400px;
+  background: linear-gradient(to bottom, #87CEEB, #98FB98);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  position: relative;
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+}

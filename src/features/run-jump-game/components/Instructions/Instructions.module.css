@@ -1,0 +1,8 @@
+.instructions {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: var(--color-muted-foreground);
+  font-size: 12px;
+  text-shadow: var(--shadow-sm);
+}

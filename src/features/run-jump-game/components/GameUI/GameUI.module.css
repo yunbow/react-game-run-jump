@@ -1,0 +1,9 @@
+.ui {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: var(--color-foreground);
+  font-weight: bold;
+  text-shadow: var(--shadow-sm);
+  z-index: 10;
+}
